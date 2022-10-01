@@ -40,16 +40,29 @@ header > a {
 /* Navigation Bar */
 
 #nav {
-    font-size: 110%;
+    font-size: 150%;
+    font-family: Alegreya SC, sans-serif;
+    text-transform: uppercase;
+}
+
+#nav, #logo {
+    line-height: 50px;
 }
 
 #nav li {
     list-style-type: none;
     float: right;
-    margin-right: 30px;
-    margin-top: 1px;
+    padding-top: 20px;
+    padding-right: 100px;
 }
 
 #nav a {
     text-decoration: none;
+    color: brown;
 }
+
+#nav a:hover {
+    border: 5px double brown;
+    padding: 3px;
+}
+
