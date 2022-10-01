@@ -6,7 +6,15 @@
     border: 0;
 }
 
-.main {
+body {
+    font-family: Merriweather, sans-serif;
+    font-weight: 200;
+    color: maroon;
+}
+
+/* Background Image */
+
+#main {
     width: 100%;
     background-image: url('../images/background-image.jpg');
     background-position: center;
@@ -14,15 +22,34 @@
     height: 100vh;
 }
 
-#logo {
-    display: flex;
-    padding: 2% 4%;
-    justify-content: space-between;
-    align-items: center;
+/* Header */
+
+header > a {
+    text-decoration: none;
 }
 
-nav {
-    color: darkcyan;
+#logo {
+    float: left;
+    padding: 15px 20px;
+    font-family: Alegreya SC, sans-serif;
+    font-size: 50px;
+    color: brown;
+    text-transform: uppercase;
+}
+
+/* Navigation Bar */
+
+#nav {
+    font-size: 110%;
+}
+
+#nav li {
+    list-style-type: none;
+    float: right;
+    margin-right: 30px;
+    margin-top: 1px;
+}
+
+#nav a {
     text-decoration: none;
-    font-size: 15px;
 }
