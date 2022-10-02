@@ -3,7 +3,9 @@ Welcome Barcelona is a website focused on those people who want to know a bit mo
 In Welcome Barcelona users will find which places are worth visiting, the best dishes to enjoy in the city and a contact us page for further questions that users may have.
 Enjoy your visit!
 
+
 ## Features
+
 
 - __Logo and Navigation Bar__
 
@@ -55,8 +57,10 @@ Enjoy your visit!
 - I have assured that the logo, navigation, home page, places page, food page and contact us page are all redeable and easy to comprehend.
 - The form requires entries for: first name, last name, email and the submit button('Send here!'), which also works.
 
+
 **Bugs**
 No bugs found
+
 
 **Validator Testing**
     
@@ -74,8 +78,10 @@ No bugs found
 
 ![Accessibility](assets/images/lighthouse.png)
 
+
 **Unfixed bugs**
 No unfixed founds
+
 
 ## Deployment
 
@@ -90,8 +96,10 @@ The live link can be found here [Welcome to Barcelona](https://benyaminmn.github
 
 ## Credits
 
+
 **Content**
-- The opaque background code was taken from [W3C Schools](https://www.w3schools.com/howto/howto_css_image_transparent.asp)
+- The opaque background code was taken from [W3C Schools](https://www.w3schools.com/howto/howto_css_image_transparent.asp).
+
 
 **Media**
-- The image in the Home Page was taken from [Pexels](https://www.pexels.com/)
+- The image in the Home Page was taken from [Pexels](https://www.pexels.com/).
