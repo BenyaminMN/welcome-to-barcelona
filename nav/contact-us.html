@@ -16,8 +16,14 @@
     <section>
         <header>
             <a href="../index.html">
+
+                <!-- Header -->
+
                 <h1 id="logo">Welcome to Barcelona</h1>
             </a>
+
+            <!-- Navigation Bar -->
+
             <nav>
                 <ul id="nav">
                     <li>
@@ -32,9 +38,35 @@
                 </ul>
             </nav>
         </header>
-
-        
     </section>   
+
+    <section>
+        <h1>Contact Us</h1>
+        <p>If you are planning on visiting our beloved Barcelona, don't hesitate on contacting us for some tips and tricks that may come in handy during your stay.</p>
+        <div>
+            <section>
+                <form class="contact-us">
+                    <h2>Contact Us</h2>
+                    <label for="fname">First Name</label>
+                    <input class="text-input" id="fname" name="first_name" type="text" required>
+                    
+                    <label for="lname">Last Name</label>
+                    <input class="text-input" id="lname" name="last_name" type="text" required>
+                    
+                    <label for="email">Email Address</label>
+                    <input class="text-input" type="email" id="email" name="email_address" required>
+                    
+                    <label for="road">Road</label>
+                    <input type="radio" id="road" name="running_preference" value="road" required>
+                    <label for="trail">Trail</label>
+                    <input type="radio" id="trail" name="running_preference" value="trail" required>
+                    <label for="both">Both</label>
+                    <input type="radio" id="both" name="running_preference" value="both" required>
+                    
+                    <input class="join-button" type="submit" value="Let's Run!">
+                </form>
+        </div>
+    </section>
 
 </body>
 
