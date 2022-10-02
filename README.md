@@ -85,7 +85,7 @@ No unfixed founds
 
 ## Deployment
 
-- __The was deployed to GitHub pages. The stepsto deploy are as follows:__
+- __The was deployed to GitHub pages. The steps to deploy are as follows:__
     - In the GitHub repository, navigate to the settings tab.
     - On the setting selection to the left, select "Pages".
     - From the source section drop-down menu, select Master Branch.
@@ -99,6 +99,7 @@ The live link can be found here [Welcome to Barcelona](https://benyaminmn.github
 
 **Content**
 - The opaque background code was taken from [W3C Schools](https://www.w3schools.com/howto/howto_css_image_transparent.asp).
+- The form, food, and places style was inspired on this [video](https://www.youtube.com/watch?v=oYRda7UtuhA&t=522s&ab_channel=EasyTutorials)
 
 
 **Media**
