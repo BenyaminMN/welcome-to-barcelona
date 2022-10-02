@@ -172,3 +172,19 @@ header>a {
     padding: 10px;
     border-radius: 25px;
 }
+
+/* Media Queries */
+
+@media screen and (max-width: 800px){
+    #nav, #logo, .text-box {
+        text-align: center;
+    }
+
+    .text-box {
+        font-size: 100%;
+    }
+
+    .opaque-background {
+        width: 75%;
+    }
+}
